@@ -1,0 +1,20 @@
+/*navbar*/
+#site-logo {
+	height: 230px;
+}
+
+#nav-menu {
+	height: 39px;
+    border: none;
+    font-size: 1.190rem;
+    background-color: #2000a2;
+    color: #fbff00;
+    border-radius: 3px;
+}
+
+#nav-menu:hover {
+	background-color: #0a0a0a;
+}
+
+
+
